@@ -1,0 +1,6 @@
+{
+  "name": "MCNSMM",
+  "description": "Premium All-in-One Digital & SMM Panel providing smart social marketing, child panel rental, secure verification deposits, and direct referrals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
